@@ -1,1 +1,1 @@
-# SeaLauncher1
+Just double click the launcher
